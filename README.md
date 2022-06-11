@@ -13,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 # Memorizer
 Memorizer is a game developed using ReactJS. The main idea of this game is to memorise the images that you have clicked.
 
+# Play Memorizer
+Memorizer is published in web using firebase hosting. 
+Play [Memorizer](https://memorizer-c0d7b.firebaseapp.com/)
+
 
 # Getting Started with Create React App
 
