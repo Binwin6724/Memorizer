@@ -15,7 +15,7 @@ Memorizer is a game developed using ReactJS. The main idea of this game is to me
 
 # Play Memorizer
 Memorizer is published in web using firebase hosting. 
-Play [Memorizer](https://memorizer-c0d7b.firebaseapp.com/)
+Play [Memorizer](https://memorizer-c0d7b.web.app/)
 
 
 # Getting Started with Create React App
